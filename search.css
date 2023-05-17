@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+}
+
+
+
+ .content h1{
+    font-size: 40px;
+    font-weight: 100;
+    /* margin-top: 300px; */
+    margin-bottom: 15px;
+    color: rgb(73, 6, 73);
+    /* margin-right: 100vh; */
+
+
+}
+
+.content p{
+    width: 50%;
+    font-size: 30px;
+    color: rgb(73, 6, 73);
+    /* margin-right: 100vh; */
+
+
+}
+.content{
+    padding-top: 20vh;
+    padding-left: 10vw;
+
+   height:82vh;
+   width: 100%;
+   background-image: url(diseasse_picture/jpg.jpg);
+   background-position: center center;
+   background-size: 100% 100%;
+   /* margin-left: 5%;
+   margin-top: 10%; */
+
+
+}
+.con .nipa1{
+
+    float: left;
+    height:550px;
+    width: 50%;
+    /* background-color: aqua; */
+    background: #D9F0ED;
+
+}
+
+.con .nipa1 img{
+
+    width:800px;
+    height:400px;
+    margin-top: 70px;
+    margin-right:40px ;
+    margin-left:15px;
+
+}
+
+.con .nipa2{
+    /* background-color: blueviolet; */
+    background: #D9F0ED;
+    float: left;
+    height:550px;
+    width: 50%;
+}
+.con .nipa2 p{
+   
+    width:700px;
+    height:400px;
+    margin-top: 70px;
+    margin-right:40px ;
+    margin-left:120px;
+    font-size: 30px;
+    font-weight: 100;
+    color: #63064c;
+    
+
+}
+/* .container{
+    height:500px ;
+    width: 100%;
+    color: blue;
+}
+
+.container img{
+    float: right;
+    width:800px;
+    height:400px;
+    margin-top: 70px;
+    margin-right:40px ;
+    margin-left:15px;
+}
+
+.container p{
+   
+    width:800px;
+    height:400px;
+    margin-top: 70px;
+    margin-right:40px ;
+    margin-left:15px;
+} */
